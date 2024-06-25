@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data, AI and Machine Learning
 - 🌱 I’m currently learning to build a better Portfolio of me
 - 💞️ I’m looking to collaborate on more Projects!!
-- 📫 How to reach me through my Email: rajshinde012003@gmail.com
+- 📫 How to reach me, through my Email: rajshinde012003@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can help with SQL queries or database design
 
